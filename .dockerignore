@@ -1,5 +1,16 @@
+# Node.js bağımlılık klasörü
 node_modules
+
+# Log dosyaları
 npm-debug.log
+*.log
+
+# Git meta verileri
 .git
 .gitignore
-*.log
+
+# VS Code ayarları (isteğe bağlı)
+.vscode/
+
+# Diğer geçici dosyalar
+.DS_Store
